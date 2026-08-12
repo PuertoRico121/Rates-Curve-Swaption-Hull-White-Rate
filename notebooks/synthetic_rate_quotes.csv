@@ -1,0 +1,10 @@
+instrument,tenor,rate
+Deposit,1M,0.0210
+Deposit,3M,0.0215
+Deposit,6M,0.0220
+Swap,1Y,0.0225
+Swap,2Y,0.0230
+Swap,3Y,0.0235
+Swap,5Y,0.0245
+Swap,7Y,0.0252
+Swap,10Y,0.0260
